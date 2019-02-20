@@ -1,0 +1,7 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ëñ·â8±„úÿ×,
+<squid:S2153"Remove the boxing to "Double".(Î¿öÓ8±„úÿ×,
+Bsquid:S2129"$Remove this "BigDecimal" constructor(¬üªž8¡ÿ—ù×,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Åã„±8¡ÿ—ù×,
+?squid:S2111"!Use "BigDecimal.valueOf" instead.(¬üªž8¡ÿ—ù×,

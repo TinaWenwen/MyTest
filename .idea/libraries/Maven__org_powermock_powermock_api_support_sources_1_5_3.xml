@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.powermock:powermock-api-support:sources:1.5.3">
+    <CLASSES>
+      <root url="jar://D:/repository/org/powermock/powermock-api-support/1.5.3/powermock-api-support-1.5.3-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/repository/org/powermock/powermock-api-support/1.5.3/powermock-api-support-1.5.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/repository/org/powermock/powermock-api-support/1.5.3/powermock-api-support-1.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
