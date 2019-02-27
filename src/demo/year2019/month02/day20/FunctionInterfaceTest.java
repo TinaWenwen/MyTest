@@ -11,8 +11,9 @@ public class FunctionInterfaceTest {
 
     /**
      * 1.Lambda 表达式是一个匿名方法，将行为像数据一样进行传递。
-       2.Lambda 表达式的常见结构：BinaryOperator<Integer> add = (x, y) → x + y。
-       3.函数接口指仅具有单个抽象方法的接口，用来表示 Lambda 表达式的类型。
+     * 2.Lambda 表达式的常见结构：BinaryOperator<Integer> add = (x, y) → x + y。
+     * 3.函数接口指仅具有单个抽象方法的接口，用来表示 Lambda 表达式的类型。
+     *
      * @param args
      */
     public static void main(String[] args) {
@@ -20,7 +21,7 @@ public class FunctionInterfaceTest {
         Predicate<Integer> atLeast5 = x -> x > 5;
         System.out.println(atLeast5.test(6));
 
-        BinaryOperator<Integer> addLongs = (x , y) -> x + y;
+        BinaryOperator<Integer> addLongs = (x, y) -> x + y;
         System.out.println(addLongs.apply(3, 9));
 
         Runnable helloworld = () -> System.out.println("hello");
